@@ -59,3 +59,4 @@ TimeType CGenerator::TimeAdvanceFn()
 {
 	return m_freq;
 }
+//m_freq is frequence
